@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  spo2_algorithm.cpp
+  Generating Code...
+     Creating library C:\Users\SCCN\source\repos\spo2\Debug\spo2.lib and object C:\Users\SCCN\source\repos\spo2\Debug\spo2.exp
+  spo2.vcxproj -> C:\Users\SCCN\source\repos\spo2\Debug\spo2.dll
